@@ -1,0 +1,5 @@
+{
+  "name": "Base58",
+  "description": "一款高性能、优雅的 Base58 编码与解码工具，内置数据验证功能。",
+  "requestFramePermissions": []
+}
